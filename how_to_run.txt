@@ -1,0 +1,3 @@
+To run, from the command line navigate to the folder and execute these commands:
+javac HWK4_bainc2.java
+java HWK4_bainc2
